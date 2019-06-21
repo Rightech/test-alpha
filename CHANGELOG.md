@@ -9,7 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * `[models]` Проверка узлов модели на идентичность [#10](https://github.com/Rightech/test-alpha/issues/10)
 * `[objects]` Обновлять последнюю позицию журнала при поступлении новых данных [#7](https://github.com/Rightech/test-alpha/issues/7)
 * `[objects]` Линейные графики [#14](https://github.com/Rightech/test-alpha/issues/14)
-* `[objects]` Смена id [#16](https://github.com/Rightech/test-alpha/issues/16)
 
 ## [1.8.0] - 2019-05-31
 
@@ -17,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * `[logic]` Редактор условий для переходов [#12](https://github.com/Rightech/test-alpha/issues/12)
 * `[logic]` Просмотр состояния исполняемого автомата в интерфейсе объектов 
 * `[objects]` Издание сертификатов X.509 
+* `[objects]` Процедуры смены идентификатора/удаления объекта [#16](https://github.com/Rightech/test-alpha/issues/16)
 * `[objects]` Страницы с помощью/инструкциями по подключению для новых устройств после создания объекта
 * `[objects]` При редактировании узлов модели интерфейс журнала и команд связаных объектов обновляется динамически
 * `[api]` [Страница](https://sandbox.rightech.io/api-tokens#?scopes=objects) для генерации API-токенов
