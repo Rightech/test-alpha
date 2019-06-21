@@ -16,6 +16,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 * `[logic]` Редактор условий для переходов [#12](https://github.com/Rightech/test-alpha/issues/12)
 * `[objects]` Издание сертификатов X.509 
+* `[objects]` Страницы с помощью/инструкциями по подключению для новых устройств после создания объекта
+* `[objects]` При редактировании узлов модели интерфейс журнала и команд связаных объектов обновляется динамически
+* `[api]` [Страница](https://sandbox.rightech.io/api-tokens#?scopes=objects) для генерации API-токенов
 
 ### Fixed
 * `[models]` Дёрганье бокса при наведении на [+] [#2](https://github.com/Rightech/test-alpha/issues/2)
