@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 * `[models]` Дёрганье бокса при наведении на [+] [#2](https://github.com/Rightech/test-alpha/issues/2)
+* `[models]` Краш при переходе на вкладку при неинициализированом редакторе кода [#15](https://github.com/Rightech/test-alpha/issues/15)
 * `[logic]` Изменение имени состояния [#11](https://github.com/Rightech/test-alpha/issues/11)
   
   
