@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 * `[logic]` Редактор условий для переходов [#12](https://github.com/Rightech/test-alpha/issues/12)
+* `[objects]` Издание сертификатов X.509 
 
 ### Fixed
 * `[models]` Дёрганье бокса при наведении на [+] [#2](https://github.com/Rightech/test-alpha/issues/2)
