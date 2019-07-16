@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * `[models]` Проверка узлов модели на идентичность [#10](https://github.com/Rightech/test-alpha/issues/10)
 * `[objects]` Обновлять последнюю позицию журнала при поступлении новых данных [#7](https://github.com/Rightech/test-alpha/issues/7)
 * `[objects]` Линейные графики [#14](https://github.com/Rightech/test-alpha/issues/14)
+* `[logic]` Миникарта
 
 ## [1.8.0] - 2019-06-14
 
